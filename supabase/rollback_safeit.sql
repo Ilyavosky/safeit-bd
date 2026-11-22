@@ -1,4 +1,5 @@
 drop table if exists
+  public.password_reset_tokens,
   public.public_analysis_hosts,
   public.public_analyses,
   public.recommendations,
